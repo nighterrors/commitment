@@ -630,6 +630,7 @@ dope
 f
 Commit now, squash later
 fixed #FIXME at line XNUM10000X
+Fixed bugs introduced in previous update. Added new ones so we can keep our jobs.
 For a complete list of changes compare source
 I neeed cofffeeeee!!1!!!
 Miscellaneous bug fixes
