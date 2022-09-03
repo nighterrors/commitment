@@ -629,6 +629,7 @@ Oh my god what year is it?!
 dope
 f
 Commit now, squash later
+fixed #FIXME at line XNUM10000X
 For a complete list of changes compare source
 I neeed cofffeeeee!!1!!!
 Miscellaneous bug fixes
